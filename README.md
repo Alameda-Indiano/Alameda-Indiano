@@ -1,4 +1,3 @@
-
 ##  Olá! me chamo Thiago, mas você pode me chamar de Alameda
 
  <div style="display: inline_block">
@@ -20,4 +19,7 @@
   <a href = "thiago2332003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-a-amorim-60811a1b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  ![Snake animation](https://github.com/Alameda-Indiano/Alameda-Indiano/blob/output/github-contribution-grid-snake.svg)
+
+
 </div>
