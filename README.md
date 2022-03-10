@@ -10,9 +10,9 @@
   <img align="center" alt="Thiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thiago-Node" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Thiago-MongoDB" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=500&color=currentColor">
-  <img align="center" alt="Thiago-Mysql" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=500&color=currentColor">
-  <img align="center" alt="Thiago-Sequelize" height="30" width="40" src="https://icongr.am/devicon/sequelize-original-wordmark.svg?size=500&color=currentColor">
+  <img align="center" alt="Thiago-MongoDB" height="50" width="60" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=148&color=currentColor">
+  <img align="center" alt="Thiago-Mysql" height="50" width="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor">
+  <img align="center" alt="Thiago-Sequelize" height="50" width="60" src="https://icongr.am/devicon/sequelize-original-wordmark.svg?size=148&color=currentColor">
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Sass" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
