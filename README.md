@@ -12,7 +12,7 @@
   <img align="center" alt="Thiago-Node" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Thiago-MongoDB" height="40" width="50" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=148&color=currentColor">
   <img align="center" alt="Thiago-Mysql" height="50" width="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor">
-  <img align="center" alt="Thiago-Sequelize" height="60" width="70" src="https://icongr.am/devicon/sequelize-original-wordmark.svg?size=148&color=currentColor">
+  <img align="center" alt="Thiago-Sequelize" height="70" width="80" src="https://icongr.am/devicon/sequelize-original-wordmark.svg?size=148&color=currentColor">
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Sass" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
