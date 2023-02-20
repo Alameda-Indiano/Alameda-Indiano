@@ -15,6 +15,7 @@
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Sass" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
   <img align="center" alt="Thiago-Heroku" height="30" width="40" src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Thiago-Sequelize" height="30" width="40" src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=128&color=currentColor">
 </div>
  
   ##
